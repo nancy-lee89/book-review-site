@@ -1,0 +1,16 @@
+body {
+    background-color:#EDE4E3;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    color: darkgreen;
+}
